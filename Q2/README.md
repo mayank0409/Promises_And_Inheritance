@@ -36,7 +36,9 @@ Create a web page keeping the following in mind:
 > Product class should have the following methods:
 
 - Product.total will give the count of all the products created.
-- Method addDescription() which should display brand, price, color, rating in the form of a string.
+- Method getDescription() which should return brand, price, color, rating in the form of a string.
+
+Example: "Apple 4000AED Black 4"
 
 > Watch class should have the following methods:
 
@@ -49,13 +51,3 @@ Create a web page keeping the following in mind:
 > Mobile class should have the following methods:
 
 - Mobile.total will give the count of all the products created.
-
-> Display all the items under watches/shoes/mobile categories on the screen.
-
-> Add a '+' button under each of these categories which triggers the addProduct() method.
-
-> Add a '-' button under each of these categories which triggers the removeProduct() method.
-
-> Display the count of items under each of these categories.
-
-> Display a sum of all the products available on the screen.
