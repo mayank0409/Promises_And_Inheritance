@@ -8,5 +8,5 @@ in green color in the div with id 'promise-success'
 if the username is Ajyal and password is Ajyal.
 
 Otherwise, should display 'Login Failed' in
-red color in the div with id 'promise-fail.
+red color in the div with id 'promise-fail'.
 ```
