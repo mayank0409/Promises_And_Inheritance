@@ -1,12 +1,9 @@
 # Question 1:
 
-Template is already given. Complete the javascript in order to achieve the following results.
+Please complete the javascript code in order to achieve the following:
 
-```
-Create a promise which displays 'Login Successful'
-in green color in the div with id 'promise-success'
-if the username is Ajyal and password is Ajyal.
+> Clicking on the Submit button should call the doLogin function.
 
-Otherwise, should display 'Login Failed' in
-red color in the div with id 'promise-fail'.
-```
+> doLogin function should return a promise which should resolve only when username is 'Ajyal' and password is 'Ajyal'. On resolving it should display 'Login Successful' in green color in the div with id 'promise-success'. It should reject the promise if you enter any other username and password and should display 'Login Failed' in red color in the div with id 'promise-fail'.
+
+> 'Login Successful' or 'Login Failed' message should disappear from the screen after 3 seconds.
