@@ -33,21 +33,21 @@ Create a web page keeping the following in mind:
 - processor (e.g: A11/Bionic, snapDragon)
 - operatingSystem (e.g: Android/iOS)
 
-> Product class should have the following methods:
+> Product class should have the following:
 
 - Product.total will give the count of all the products created.
 - Method getDescription() which should return brand, price, color, rating in the form of a string.
 
 Example: "Apple 4000AED Black 4"
 
-> Watch class should have the following methods:
+> Watch class should have the following:
 
 - Watch.total will give the count of all the products created.
 
-> Shoes class should have the following methods:
+> Shoes class should have the following:
 
 - Shoes.total will give the count of all the products created.
 
-> Mobile class should have the following methods:
+> Mobile class should have the following:
 
 - Mobile.total will give the count of all the products created.
